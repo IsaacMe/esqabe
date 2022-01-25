@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Meers"
+  given-names: "Isaac"
+  orcid: "https://orcid.org/0000-0003-1308-2837"
+- family-names: "Di Martino"
+  given-names: "Mariano"
+  orcid: "https://orcid.org/0000-0002-2848-5252"
+- family-names: "Quax"
+  given-names: "Peter"
+  orcid: "https://orcid.org/0000-0003-4811-0578"
+- family-names: "Lamotte"
+  given-names: "Wim"
+  orcid: "https://orcid.org/0000-0003-1888-6383"
+title: "ESQABE: Encrypted Search Query Analysis By Eavesdropping"
+version: 1.0.0
+date-released: 2021-06-15
+url: "https://github.com/IsaacMe/esqabe"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Meers"
+    given-names: "Isaac"
+    orcid: "https://orcid.org/0000-0003-1308-2837"
+  - family-names: "Di Martino"
+    given-names: "Mariano"
+    orcid: "https://orcid.org/0000-0002-2848-5252"
+  - family-names: "Quax"
+    given-names: "Peter"
+    orcid: "https://orcid.org/0000-0003-4811-0578"
+  - family-names: "Lamotte"
+    given-names: "Wim"
+    orcid: "https://orcid.org/0000-0003-1888-6383"
+  doi: "10.1007/978-3-030-78120-0_7"
+  journal: "ICT Systems Security and Privacy Protection"
+  year: 2021
+  month: 6
+  start: 103
+  end: 117
+  title: "ESQABE: Predicting Encrypted Search Queries"
+  isbn: "978-3-030-78120-0"
+  conference:
+    name: "SEC: IFIP International Conference on ICT Systems Security and Privacy Protection"
+  publisher:
+    name: "Springer International Publishing"
+  
+  
+  
